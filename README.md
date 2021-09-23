@@ -18,7 +18,9 @@ I would like to acknowledge their works. (including but not limited to the list)
 
 ### referenced models (in no particular order)
 MeanWell_LRS-350-12：https://grabcad.com/library/mean-well-lrs-350-24-1
+
 12864mini_RGB: https://grabcad.com/library/fysetc-minipanel-12864-rgb-1
+
 FLY 3D CDY_v2: https://grabcad.com/library/fly-cdy-v2-board-1
 4010 axial fan: https://grabcad.com/library/turbofan40-40-10-1
 3010 axial fan: https://grabcad.com/library/3010-fan-30x30x10mm-1
