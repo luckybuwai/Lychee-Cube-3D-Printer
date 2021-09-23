@@ -1,5 +1,5 @@
 # Lychee-Cube-3D-Printer
-An opensource  mini core XY 3D printer
+An opensource  mini Core-XY 3D printer
 
 ## Feature
 
