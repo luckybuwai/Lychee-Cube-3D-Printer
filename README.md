@@ -22,6 +22,13 @@ I reference/modified some existing CAD models in the devlopement of this project
 
 I would like to acknowledge their works. (including but not limited to the list)
 
+### referenced 3D printer projects (in no particular order)
+BLV mgn Cube: https://www.blvprojects.com/blv-mgn-cube-3d-printer
+
+Rat Rig V-CORE3: https://v-core.ratrig.com/
+
+VORON 0.1: https://www.vorondesign.com/voron0.1
+
 ### referenced models (in no particular order)
 MeanWell_LRS-350-12：https://grabcad.com/library/mean-well-lrs-350-24-1
 
@@ -49,12 +56,6 @@ Ball bearing 608-2Z: https://www.skf.com/cn/products/rolling-bearings/ball-beari
 
 Filament spool holder: https://www.thingiverse.com/thing:4881187
 
-### referenced 3D printer projects (in no particular order)
-BLV mgn Cube: https://www.blvprojects.com/blv-mgn-cube-3d-printer
-
-Rat Rig V-CORE3: https://v-core.ratrig.com/
-
-VORON 0.1: https://www.vorondesign.com/voron0.1
 
 
 
