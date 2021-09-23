@@ -9,4 +9,4 @@ Lower center of gravity
 220V heat bed            
 
 ## BOM
-- n/a
+Work in progress
