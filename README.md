@@ -1,16 +1,20 @@
 # Lychee-Cube
-An opensource  mini Core-XY 3D printer
+A DIY mini Core-XY 3D printer
 
-![Image of Lychee Cube](Image/cover image.jpg)
+![Image of Lychee Cube](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/a63fc1c3456dba731e85a1feb0eee21498e18d54/Image/cover%20image.jpg)
 
-## Feature
-Minimized frame and maximized build size,frame size:310x310,build size:200x200
+## Introduction
+Lychee Cube is an open source project designed out of personal interest. The project is named ‘Lychee’, a fruit of southern China.
 
-Triple Z axis bed leveling 
+The Lychee Cube project provides a DIY Kit for a compact 3D printer that maximizes printing space utilization. The frame size of this machine is L310 mm x W310 mm x H340mm. The building size is X200 mm x Y200 mm x Z150mm. 
 
-Lower center of gravity  
+Main features of this machine include the Core-XY belt motion system, triple-Z auto bed leveling, linear rail guided XYZ movement, 220V heating bed, robust frame, low centre of gravity construction and so on.
+  
+## Declaration
+This project is licensed under the GPLV3 Open-Source Agreement.
 
-220V heat bed   
+Open source of Lychee Cube project is limited to self-designed components and structures The cited third-party models and electronics still follow their original open source or commercial agreements.
+
 
 ## BOM
 Work in progress
