@@ -16,7 +16,7 @@ Open source of Lychee Cube project is limited to self-designed components and st
 
 
 ## BOM
-Work in progress
+[BOM](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/5c02c0ff25f149217b458baa7e9683ff6db3cbc7/BOM.xlsx)
 
 
 
@@ -27,13 +27,13 @@ The materials required to build this machine are stored in the following folders
 
 `Printed part folder:` The printed parts of the machine in '.stl' format.
 
-* main folder: main structural components.
+>`main folder:` main structural components.
   
-* extruder folder: stepper motor mount of extruder.
+>`extruder folder:` stepper motor mount of extruder.
   
-* filament spool holder folder: printed parts of filament spool holder.
+>`filament spool holder folder:` printed parts of filament spool holder.
   
-* tools folder: assembly tools.
+>`tools folder:` assembly tools.
   
 `Updata_202* folder:` The available updated files are stored in the folder named of the uploading data.
 
