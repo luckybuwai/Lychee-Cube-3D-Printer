@@ -1,0 +1,8 @@
+Acknowledgments
+Thanks for your attention and support to Lychee Cube project! This project is inspired by many excellent 3D printer projects.I would like to acknowledge their works(including but not limited to the list):
+
+BLV mgn Cube: https://www.blvprojects.com/blv-mgn-cube-3d-printer
+Rat Rig V-CORE3: https://v-core.ratrig.com/
+VORON 0.1: https://www.vorondesign.com/voron0.1
+
+Special thanks to my lovely girlfriend who gave me great encouragement and support throughout the project. This project is named by your favourite fruit. I hope you like this gift honey.
