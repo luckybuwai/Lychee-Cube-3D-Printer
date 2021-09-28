@@ -75,7 +75,7 @@ Have fun building your own Lychee Cube 3D printer! Feel free to contact me if yo
 E-mail: luckybuwai@163.com\
 QQ Group: 938911324
 
-幸运的小涡轮
+幸运的小涡轮 \
 29 September \
 2021
 
