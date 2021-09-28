@@ -16,7 +16,7 @@ Open source of Lychee Cube project is limited to self-designed components and st
 
 
 ## BOM
-[BOM](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/5c02c0ff25f149217b458baa7e9683ff6db3cbc7/BOM.xlsx)
+[BOM(work in progress)](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/5c02c0ff25f149217b458baa7e9683ff6db3cbc7/BOM.xlsx)
 
 
 
