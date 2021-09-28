@@ -1,5 +1,6 @@
-# Lychee-Cube-3D-Printer
+# Lychee-Cube
 An opensource  mini Core-XY 3D printer
+![Image of Lychee Cube](Image/cover image.jpg)
 
 ## Feature
 Minimized frame and maximized build size,frame size:310x310,build size:200x200
