@@ -15,12 +15,12 @@ This project is licensed under the GPLV3 Open-Source Agreement. \
 Open source of Lychee Cube project is limited to self-designed components and structures The cited third-party models and electronics still follow their original open source or commercial agreements.
 
 
-## BOM
-[BOM(work in progress)](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/5c02c0ff25f149217b458baa7e9683ff6db3cbc7/BOM.xlsx)
+## BOM (work in progress)
+[BOM](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/5c02c0ff25f149217b458baa7e9683ff6db3cbc7/BOM.xlsx)
 
 
 
-## Contents
+## Contents (work in progress)
 The materials required to build this machine are stored in the following folders:
 
 `Assembly folder:` Assembly files in '*.stp' format. The files are named after the uploading date. 
