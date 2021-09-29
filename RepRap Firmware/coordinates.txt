@@ -1,0 +1,15 @@
+Lead screw coordinates
+Rear: (X100,Y214.2) 
+Left: (X-8.9,Y7.6) 
+Right: (X208.9,Y7.6) 
+
+IR Z probe offset
+Y offset: 35.6mm
+Z offset: 11.2mm
+
+ABL points
+P0: (X0,Y200) 
+P1: (X200,Y200) 
+P2: (X200,Y40) 
+P3: (X0,Y40) 
+P4: (X100,Y100) 
