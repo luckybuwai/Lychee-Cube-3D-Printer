@@ -25,6 +25,14 @@ The materials required to build this machine are stored in the following folders
 
 >`Assembly folder:` Assembly files in '*.stp' format. The files are named after the uploading date. 
 
+>`Aluminum profile folder`
+
+>`CNC part folder:` CNC leveling platform.
+
+>`Images folder:` Preview images of the machine.
+
+>`Panel folder:` Laser cutting acrylic panels.
+
 >`Printed part folder:` The printed parts of the machine in '.stl' format.
 
 >>`main folder:` main structural components.
@@ -35,17 +43,13 @@ The materials required to build this machine are stored in the following folders
   
 >>`tools folder:` assembly tools.
   
->`Updata_202* folder:` The available updated files are stored in the folder named of the uploading data.
-
->`Images folder:` Preview images of the machine.
-
->`License folder:` The license documents are attached to the folder.
-
->`Reference.txt:` Third-part models and links.
+>`RepRap Firmware folder:` RepRap Firmware for Lychee Cube.
 
 >`Acknowledgments.txt:` Acknowledgements.
 
 >`BOM.xlsx:` Bill of materials.
+
+>`Reference.txt:` Third-part models and links.
 
 ## Third-part models (in no particular order)
 MeanWell_LRS-350-12：https://grabcad.com/library/mean-well-lrs-350-24-1 \
