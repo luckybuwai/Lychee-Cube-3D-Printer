@@ -1,9 +1,9 @@
 # Lychee-Cube
-A DIY mini Core-XY 3D printer \
+`Lychee Cube` is a DIY mini 3D printer \
 ![Image of Lychee Cube](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/a63fc1c3456dba731e85a1feb0eee21498e18d54/Image/cover%20image.jpg)
 
 ## Introduction
-Lychee Cube is an open source project designed out of personal interest. \
+`Lychee Cube` is an open source project designed out of personal interest. \
 The project is named ‘Lychee’, a fruit of southern China. 
 
 The Lychee Cube project provides a DIY Kit for a compact 3D printer that maximizes printing space utilization. The frame size of this machine is L310 mm x W310 mm x H340mm. The building size is X200 mm x Y200 mm x Z150mm. 
@@ -23,29 +23,29 @@ Open source of Lychee Cube project is limited to self-designed components and st
 ## Contents (work in progress)
 The materials required to build this machine are stored in the following folders:
 
-`Assembly folder:` Assembly files in '*.stp' format. The files are named after the uploading date. 
+>`Assembly folder:` Assembly files in '*.stp' format. The files are named after the uploading date. 
 
-`Printed part folder:` The printed parts of the machine in '.stl' format.
+>`Printed part folder:` The printed parts of the machine in '.stl' format.
 
->`main folder:` main structural components.
+>>`main folder:` main structural components.
   
->`extruder folder:` stepper motor mount of extruder.
+>>`extruder folder:` stepper motor mount of extruder.
   
->`filament spool holder folder:` printed parts of filament spool holder.
+>>`filament spool holder folder:` printed parts of filament spool holder.
   
->`tools folder:` assembly tools.
+>>`tools folder:` assembly tools.
   
-`Updata_202* folder:` The available updated files are stored in the folder named of the uploading data.
+>`Updata_202* folder:` The available updated files are stored in the folder named of the uploading data.
 
-`Images folder:` Preview images of the machine.
+>`Images folder:` Preview images of the machine.
 
-`License folder:` The license documents are attached to the folder.
+>`License folder:` The license documents are attached to the folder.
 
-`Reference.txt:` Third-part models and links.
+>`Reference.txt:` Third-part models and links.
 
-`Acknowledgments.txt:` Acknowledgements.
+>`Acknowledgments.txt:` Acknowledgements.
 
-`BOM.xlsx:` Bill of materials.
+>`BOM.xlsx:` Bill of materials.
 
 ## Third-part models (in no particular order)
 MeanWell_LRS-350-12：https://grabcad.com/library/mean-well-lrs-350-24-1 \
