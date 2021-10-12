@@ -16,14 +16,14 @@ Open source of this project is limited to self-designed components and structure
 
 
 ## BOM (work in progress)
-[BOM](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/5c02c0ff25f149217b458baa7e9683ff6db3cbc7/BOM.xlsx)
+[BOM](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/931138cb11c8285abbf8e22e45236c732e7351a9/BOM.xlsx)
 
 
 
 ## Contents (work in progress)
 The materials required to build this machine are stored in the following folders:
 
->`.\Assembly` The assembly file of the machine. 
+>`.\Assembly` The assembly file of the machine. [Assembly](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/a50b316dc72a5c2cda73f2b95c605d006fdd450b/assembly.txt)
 
 >`.\Drawings`\
 >>`.\Drawings\Aluminum profile` The drawings of the aluminum profile.\
