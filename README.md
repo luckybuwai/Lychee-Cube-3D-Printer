@@ -1,6 +1,6 @@
 # Lychee-Cube
 `Lychee Cube` is a DIY mini 3D printer \
-![Image of Lychee Cube](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/a63fc1c3456dba731e85a1feb0eee21498e18d54/Image/cover%20image.jpg)
+![Image of Lychee Cube](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/fce545dcdf4365625f5fdb4eb0ec2d2606440931/Images/Cover%20image.jpg)
 
 ## Introduction
 `Lychee Cube` is an open source project designed out of personal interest. \
