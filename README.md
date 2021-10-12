@@ -6,13 +6,13 @@
 `Lychee Cube` is an open source project designed out of personal interest. \
 The project is named ‘Lychee’, a fruit of southern China. 
 
-The Lychee Cube project provides a DIY Kit for a compact 3D printer that maximizes printing space utilization. The frame size of this machine is L310 mm x W310 mm x H340mm. The building size is X200 mm x Y200 mm x Z150mm. 
+This project provides a DIY Kit for a compact 3D printer that maximizes printing space utilization. The frame size of this machine is L310 mm * W310 mm * H340mm. The building size is X200 mm * Y200 mm * Z150mm. 
 
 Main features of this machine include the Core-XY belt motion system, triple-Z auto bed leveling, linear rail guided XYZ movement, 220V heating bed, robust frame, low centre of gravity construction and so on.
   
 ## Declaration
 This project is licensed under the GPLV3 Open-Source Agreement. \
-Open source of Lychee Cube project is limited to self-designed components and structures The cited third-party models and electronics still follow their original open source or commercial agreements.
+Open source of this project is limited to self-designed components and structures. The third-party models and electronics used in this project still follow their original open source or commercial agreements.
 
 
 ## BOM (work in progress)
@@ -23,35 +23,32 @@ Open source of Lychee Cube project is limited to self-designed components and st
 ## Contents (work in progress)
 The materials required to build this machine are stored in the following folders:
 
->`Assembly folder:` Assembly files in '*.stp' format. The files are named after the uploading date. 
+>`.\Assembly` The assembly file of the machine. 
 
->`Aluminum profile folder`
+>`.\Drawings`\
+>>`.\Drawings\Aluminum profile` The drawings of the aluminum profile.\
+>>`.\Drawings\Heatbed plate` The drawing of the heatbed aluminum plate.\
+>>`.\Drawings\Panels\` The drawings of the acrylic panels.
 
->`CNC part folder:` CNC leveling platform.
+>`.\Images` Preview images of the machine.
 
->`Images folder:` Preview images of the machine.
+>`.\License` The license documents.
 
->`Panel folder:` Laser cutting acrylic panels.
-
->`Printed part folder:` The printed parts of the machine in '.stl' format.
-
->>`main folder:` main structural components.
+>`.\Printed` \
+>>`.\Printed\main` Printed main structural components.\
+>>`.\Printed\extruder` Printed parts of the extruder.\
+>>`.\Printed\filament spool` Printed parts of the filament spool holder.\
+>>`.\Printed\tools` Auxiliary tools for building the frame.
   
->>`extruder folder:` stepper motor mount of extruder.
+>>`.\Firmware` The reprapfirmware files
   
->>`filament spool holder folder:` printed parts of filament spool holder.
-  
->>`tools folder:` assembly tools.
-  
->`RepRap Firmware folder:` RepRap Firmware for Lychee Cube.
+>`Acknowledgments.txt`
 
->`Acknowledgments.txt:` Acknowledgements.
+>`BOM.xlsx:` A bill of the materials for building the machine, including the names and specifications of the parts. Available purchase links are also provided.
 
->`BOM.xlsx:` Bill of materials.
+>`Reference.txt:` Links of the cited third-party models.
 
->`Reference.txt:` Third-part models and links.
-
-## Third-part models (in no particular order)
+## Third-party models (in no particular order)
 MeanWell_LRS-350-12：https://grabcad.com/library/mean-well-lrs-350-24-1 \
 12864mini_RGB: https://grabcad.com/library/fysetc-minipanel-12864-rgb-1 \
 FLY 3D CDY_v2: https://grabcad.com/library/fly-cdy-v2-board-1 \
@@ -73,8 +70,11 @@ Thanks for your attention and support to Lychee Cube project! This project is in
 * Rat Rig V-CORE3: https://v-core.ratrig.com/
 * VORON 0.1: https://www.vorondesign.com/voron0.1
 
-Special thanks to my lovely girlfriend who gave me great encouragement and support throughout the project. This project is named by your favourite fruit. I hope you like this gift honey.
+Sincere thanks to the friends I have never met: 风一样的男子, willow, Fly maker.  They provide valuable technical support for this project.
 
+Special thanks to my lovely girlfriend who gave me great encouragement and support throughout the project. This project is named by her favourite fruit. 
+
+##
 Have fun building your own Lychee Cube 3D printer! Feel free to contact me if you have any questions and suggestions.\
 E-mail: luckybuwai@163.com\
 QQ Group: 938911324
