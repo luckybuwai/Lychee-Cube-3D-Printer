@@ -1,0 +1,10 @@
+Lead screw coordinates
+*coordinates of the holding balls are used instead of the lead screw coordinates
+Rear: (X100,Y214.2) 
+Left: (X-8.9,Y7.6) 
+Right: (X208.9,Y7.6) 
+
+IR Z probe offset
+X offset: 0
+Y offset: 35.6mm
+Z offset: 1.2mm
