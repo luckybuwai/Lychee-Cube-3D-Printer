@@ -1,4 +1,4 @@
-Third-part models (in no particular order):
+Third-party models (in no particular order):
 
 MeanWell_LRS-350-12：https://grabcad.com/library/mean-well-lrs-350-24-1
 
