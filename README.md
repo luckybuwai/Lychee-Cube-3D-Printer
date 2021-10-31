@@ -9,6 +9,11 @@ The project is named ‘Lychee’, a fruit of southern China.
 This project provides a DIY Kit for a compact 3D printer that maximizes printing space utilization. The frame size of this machine is L310 mm * W310 mm * H340mm. The building size is X200 mm * Y200 mm * Z150mm. 
 
 Main features of this machine include the Core-XY belt motion system, triple-Z auto bed leveling, linear rail guided XYZ movement, 220V heating bed, robust frame, low centre of gravity construction and so on.
+
+![Toolhead](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/0713d044404f9e294ff2a63b0ced504fb6dca420/Images/Toolhead2.bmp) 
+![Triple Z](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/0713d044404f9e294ff2a63b0ced504fb6dca420/Images/triple%20Z%20axis%20bed%20leveling.bmp) 
+![XY motion system](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/0713d044404f9e294ff2a63b0ced504fb6dca420/Images/XY%20motion%20system.bmp) 
+
   
 ## Declaration
 This project is licensed under the GPLV3 Open-Source Agreement. \
