@@ -13,6 +13,7 @@ Main features of this machine include the Core-XY belt motion system, triple-Z a
 ![Toolhead](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/0713d044404f9e294ff2a63b0ced504fb6dca420/Images/Toolhead2.bmp) 
 ![Toolhead assembly](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/4286e934d612b663471af272c22074511e6c8d50/Images/95884937_1635704926.jpg) 
 ![Triple Z](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/0713d044404f9e294ff2a63b0ced504fb6dca420/Images/triple%20Z%20axis%20bed%20leveling.bmp) 
+![Z axis assembly](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/e310ebbe7dd1bc39f0bd10ce4d4e1fed50fc5cae/Images/76026125_1635704949.jpg) 
 ![XY motion system](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/0713d044404f9e294ff2a63b0ced504fb6dca420/Images/XY%20motion%20system.bmp) 
 ![Assembly](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/0b36267cbc3e10ecf5f2c9b31f24d090a77cd76e/Images/45917226_1635670156.jpg) 
 ![Assembly](https://github.com/luckybuwai/Lychee-Cube-3D-Printer/blob/4286e934d612b663471af272c22074511e6c8d50/Images/68287519_1635670318.jpg) 
